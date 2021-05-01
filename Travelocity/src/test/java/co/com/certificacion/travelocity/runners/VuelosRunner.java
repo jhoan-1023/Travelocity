@@ -11,5 +11,5 @@ import org.junit.runner.RunWith;
         snippets = SnippetType.CAMELCASE,
         tags = "",dryRun = false)
 
-public class VuelosRunners {
+public class VuelosRunner {
 }

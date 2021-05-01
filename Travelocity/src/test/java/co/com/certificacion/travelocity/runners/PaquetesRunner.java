@@ -6,10 +6,10 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
-@CucumberOptions(features = "src/test/resources/features/carros.feature",
+@CucumberOptions(features = "src/test/resources/features/paquetes.feature",
         glue = "co.com.certificacion.travelocity.stepsdefinitions",
         snippets = SnippetType.CAMELCASE,
         tags = "",dryRun = false)
 
-public class CarrosRunners {
+public class PaquetesRunner {
 }
