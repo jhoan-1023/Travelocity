@@ -1,0 +1,13 @@
+#Intellij
+*/.idea/
+
+#Java
+*/build/
+*/out/
+*/history/
+
+#Serenity
+*/target/
+
+#Gradle
+*/.gradle/
