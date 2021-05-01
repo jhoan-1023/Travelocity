@@ -31,6 +31,12 @@
 * Interactions: Se encargan de las interacciones con la interfaz de usuario. Muchas interacciones ya fueron desarrolladas y se encuentran disponibles gracias a las librerías de   screenplay y de serenity BDD
 * Models: Los objetos de negocio son una abstracción de un ente real o virtual, modelado mediante atributos y métodos
 
+
+## Requerimientos
+
+* Java JDK 1.8 
+* Gestor de proyectos Gradle 
+
  
 ## Comandos para ejecutar el proyecto.
 
