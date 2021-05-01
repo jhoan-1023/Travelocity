@@ -32,7 +32,7 @@
 * Models: Los objetos de negocio son una abstracción de un ente real o virtual, modelado mediante atributos y métodos
 
  
-# Comandos para ejecutar el proyecto.
+## Comandos para ejecutar el proyecto.
 
 * gradle clean test --tests FlightsRunner aggregate -Dcucumber.filter.tags="@Flight" -Denvironment=Laboratorio
 
