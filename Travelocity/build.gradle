@@ -32,4 +32,3 @@ dependencies {
     compile group: 'com.codoid.products', name: 'fillo', version: '1.18'
 }
 gradle.startParameter.continueOnFailure = true
- 
