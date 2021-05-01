@@ -40,7 +40,7 @@
  
 ## Comandos para ejecutar el proyecto.
 
-* gradle clean test --tests FlightsRunner aggregate -Dcucumber.filter.tags="@Flight" -Denvironment=Laboratorio
+* gradle clean test --tests CarrosRunner aggregate -Dcucumber.filter.tags="@carros" -Denvironment=Laboratorio
 
 
 ## Autores
