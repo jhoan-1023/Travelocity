@@ -51,7 +51,4 @@
 
 ## Autores
 
-Brayan Yamid Granado - brayan.sus7@gmail.com 
-
-#Linkedin
-https://www.linkedin.com/in/brayan-granado-85bb5b166/
+Jhoan Márquez Castrillón - jhoan-1023@hotmail.com 
